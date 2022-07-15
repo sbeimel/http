@@ -29,7 +29,7 @@ http://test:test@rico.goip.de:9981/stream/channelid/2060666244?profile=pass
 http://test:test@rico.goip.de:9981/stream/channelid/1201184767?profile=pass
 #EXTINF:-1 tvg-id="973adf19398d88f5b7ead58d91628a6e",DMAX HD
 http://test:test@rico.goip.de:9981/stream/channelid/434059927?profile=pass
-#EXTINF:-1 tvg-id="9c9bf9d6b0108d944d0eb19a36c3b46c",eSports1 HD
+#EXTINF:-1 logo="http://test:test@rico.goip.de:9981/imagecache/6" tvg-id="9c9bf9d6b0108d944d0eb19a36c3b46c",eSPORTS1 HD
 http://test:test@rico.goip.de:9981/stream/channelid/1459198876?profile=pass
 #EXTINF:-1 tvg-id="b2ba637a03de78c1c0d6f297495f75cf",Eurosport 1 HD
 http://test:test@rico.goip.de:9981/stream/channelid/2053356210?profile=pass
@@ -37,11 +37,11 @@ http://test:test@rico.goip.de:9981/stream/channelid/2053356210?profile=pass
 http://test:test@rico.goip.de:9981/stream/channelid/1493528740?profile=pass
 #EXTINF:-1 tvg-id="ad1c5fcf5f6c5659d0a2f84dec81742b",Fix & Foxi
 http://test:test@rico.goip.de:9981/stream/channelid/1331633325?profile=pass
-#EXTINF:-1 tvg-id="d0ae3fe79abc203fa9531bbf44142c2b",GEO TV HD
+#EXTINF:-1 logo="http://test:test@rico.goip.de:9981/imagecache/10" tvg-id="d0ae3fe79abc203fa9531bbf44142c2b",GEO TV HD
 http://test:test@rico.goip.de:9981/stream/channelid/1732226768?profile=pass
 #EXTINF:-1 tvg-id="66d4d2428d2f47356bf8ba898c30c83d",HISTORY HD
 http://test:test@rico.goip.de:9981/stream/channelid/1121113190?profile=pass
-#EXTINF:-1 tvg-id="9612603ee9cdc09a04e57b59cfffabf4",HOME & GARDEN TV HD
+#EXTINF:-1 logo="http://test:test@rico.goip.de:9981/imagecache/14" tvg-id="9612603ee9cdc09a04e57b59cfffabf4",HOME & GARDEN TV HD
 http://test:test@rico.goip.de:9981/stream/channelid/1046483606?profile=pass
 #EXTINF:-1 tvg-id="755b55271094c32fb8f42389f4a71799",hr-fernsehen HD
 http://test:test@rico.goip.de:9981/stream/channelid/659905397?profile=pass
@@ -49,7 +49,7 @@ http://test:test@rico.goip.de:9981/stream/channelid/659905397?profile=pass
 http://test:test@rico.goip.de:9981/stream/channelid/1224394650?profile=pass
 #EXTINF:-1 tvg-id="19cec63e58b242e573d9717f79e06278",Kabel Eins Doku HD
 http://test:test@rico.goip.de:9981/stream/channelid/1053216281?profile=pass
-#EXTINF:-1 tvg-id="9b5779b99cafa9a67e21b467648a6720",kabel eins HD
+#EXTINF:-1 logo="http://test:test@rico.goip.de:9981/imagecache/17" tvg-id="9b5779b99cafa9a67e21b467648a6720",Kabel eins HD
 http://test:test@rico.goip.de:9981/stream/channelid/964253595?profile=pass
 #EXTINF:-1 tvg-id="17f5b0e1585dcd102d6299f6debedfa0",KiKA HD
 http://test:test@rico.goip.de:9981/stream/channelid/1638987031?profile=pass
@@ -61,27 +61,27 @@ http://test:test@rico.goip.de:9981/stream/channelid/1767171026?profile=pass
 http://test:test@rico.goip.de:9981/stream/channelid/1131545527?profile=pass
 #EXTINF:-1 tvg-id="dc2c4ea86f1208715657e1822887e4d1",n-tv HD
 http://test:test@rico.goip.de:9981/stream/channelid/676211932?profile=pass
-#EXTINF:-1 tvg-id="fc9fcb92ebe01b1d0d20f1c919a587eb",N24 Doku
+#EXTINF:-1 logo="http://test:test@rico.goip.de:9981/imagecache/3" tvg-id="fc9fcb92ebe01b1d0d20f1c919a587eb",N24 Doku
 http://test:test@rico.goip.de:9981/stream/channelid/315334652?profile=pass
-#EXTINF:-1 tvg-id="4ff9b0c0d1488f3ed16b6e9da7f00496",NatGeo HD
+#EXTINF:-1 logo="http://test:test@rico.goip.de:9981/imagecache/18" tvg-id="4ff9b0c0d1488f3ed16b6e9da7f00496",NatGeo HD
 http://test:test@rico.goip.de:9981/stream/channelid/1085339983?profile=pass
 #EXTINF:-1 tvg-id="c133b43f062d04b9e725a6b09ff4e044",NatGeo Wild HD (VF)
 http://test:test@rico.goip.de:9981/stream/channelid/1068774337?profile=pass
 #EXTINF:-1 tvg-id="e32970d3ca11b5bdb256dbb0d4763c98",NDR FS HH HD
 http://test:test@rico.goip.de:9981/stream/channelid/1399859683?profile=pass
-#EXTINF:-1 tvg-id="f6da6204219106214ab9e4a47f5ab1b1",Nick HD
+#EXTINF:-1 logo="http://test:test@rico.goip.de:9981/imagecache/23" tvg-id="f6da6204219106214ab9e4a47f5ab1b1",Nick HD
 http://test:test@rico.goip.de:9981/stream/channelid/73587446?profile=pass
 #EXTINF:-1 tvg-id="220be01531d4bff715b62d38a3470300",Nick Jr. HD
 http://test:test@rico.goip.de:9981/stream/channelid/367004450?profile=pass
 #EXTINF:-1 tvg-id="6394f65fd0018cec95cac8e287a212f8",NITRO HD
 http://test:test@rico.goip.de:9981/stream/channelid/1609995363?profile=pass
-#EXTINF:-1 tvg-id="584f534e17dff422f79bf2d8b25f15c3",ONE HD
+#EXTINF:-1 logo="http://test:test@rico.goip.de:9981/imagecache/20" tvg-id="584f534e17dff422f79bf2d8b25f15c3",ONE HD
 http://test:test@rico.goip.de:9981/stream/channelid/1314082648?profile=pass
 #EXTINF:-1 tvg-id="9809b18a6c0b03cb085e852e490d03f2",PHOENIX HD
 http://test:test@rico.goip.de:9981/stream/channelid/179374488?profile=pass
-#EXTINF:-1 tvg-id="b2ab464679cd4006b56e4eb5d57f3c0f",ProSieben FUN HD
+#EXTINF:-1 logo="http://test:test@rico.goip.de:9981/imagecache/28" tvg-id="b2ab464679cd4006b56e4eb5d57f3c0f",ProSieben FUN HD
 http://test:test@rico.goip.de:9981/stream/channelid/1179036594?profile=pass
-#EXTINF:-1 tvg-id="f1a1ff7f2efeb1a374e0de68cb6b46fa",ProSieben HD
+#EXTINF:-1 logo="http://test:test@rico.goip.de:9981/imagecache/39" tvg-id="f1a1ff7f2efeb1a374e0de68cb6b46fa",ProSieben HD
 http://test:test@rico.goip.de:9981/stream/channelid/2147459569?profile=pass
 #EXTINF:-1 tvg-id="e00d3b6284eb971f977103fb2f836c00",ProSieben MAXX HD
 http://test:test@rico.goip.de:9981/stream/channelid/1648037344?profile=pass
@@ -89,19 +89,19 @@ http://test:test@rico.goip.de:9981/stream/channelid/1648037344?profile=pass
 http://test:test@rico.goip.de:9981/stream/channelid/1880673952?profile=pass
 #EXTINF:-1 tvg-id="e501192a9bfa52c6092342805d845be6",Romance TV HD
 http://test:test@rico.goip.de:9981/stream/channelid/706281957?profile=pass
-#EXTINF:-1 tvg-id="9ed1867abba7f27732d321f819a77ec1",RTL Crime HD
+#EXTINF:-1 logo="http://test:test@rico.goip.de:9981/imagecache/13" tvg-id="9ed1867abba7f27732d321f819a77ec1",RTL Crime HD
 http://test:test@rico.goip.de:9981/stream/channelid/2055655838?profile=pass
 #EXTINF:-1 tvg-id="500cec49fdd921ef1eb4227fa0dcfe22",RTL HD
 http://test:test@rico.goip.de:9981/stream/channelid/1240206416?profile=pass
 #EXTINF:-1 tvg-id="5aa7e65c9672a39ebcec0c6815dd9c82",RTL II HD
 http://test:test@rico.goip.de:9981/stream/channelid/1558619994?profile=pass
-#EXTINF:-1 tvg-id="8765d83ca5cff1b519782fb5fbcf3d9d",RTL Living HD
+#EXTINF:-1 logo="http://test:test@rico.goip.de:9981/imagecache/35" tvg-id="8765d83ca5cff1b519782fb5fbcf3d9d",RTL Living HD
 http://test:test@rico.goip.de:9981/stream/channelid/1020814727?profile=pass
 #EXTINF:-1 tvg-id="aa93f2a6a968d4c7de402269c84176c8",RTLplus HD
 http://test:test@rico.goip.de:9981/stream/channelid/653431722?profile=pass
 #EXTINF:-1 tvg-id="6c4a1f746eaf4110c7f946449e5a5086",SAT.1 emotions HD
 http://test:test@rico.goip.de:9981/stream/channelid/1948207724?profile=pass
-#EXTINF:-1 tvg-id="4b787582e827a6fe3a0639b4c03533d0",SAT.1 Gold HD
+#EXTINF:-1 logo="http://test:test@rico.goip.de:9981/imagecache/43" tvg-id="4b787582e827a6fe3a0639b4c03533d0",SAT.1 GOLD
 http://test:test@rico.goip.de:9981/stream/channelid/41252939?profile=pass
 #EXTINF:-1 tvg-id="918557e7e7c0bbe652a7cdd5cc301c09",SAT.1 HD
 http://test:test@rico.goip.de:9981/stream/channelid/1733789073?profile=pass
@@ -111,57 +111,57 @@ http://test:test@rico.goip.de:9981/stream/channelid/99370123?profile=pass
 http://test:test@rico.goip.de:9981/stream/channelid/43514733?profile=pass
 #EXTINF:-1 tvg-id="40b78edb3782c4455ad3b22c1207c01f",sixx HD
 http://test:test@rico.goip.de:9981/stream/channelid/1536079680?profile=pass
-#EXTINF:-1 tvg-id="b2c7acc64d93712606524ab50c8e243f",Sky Atlantic HD
+#EXTINF:-1 logo="http://test:test@rico.goip.de:9981/imagecache/32" tvg-id="b2c7acc64d93712606524ab50c8e243f",Sky Atlantic HD
 http://test:test@rico.goip.de:9981/stream/channelid/1185728434?profile=pass
-#EXTINF:-1 tvg-id="7d6a4cfe26e07beef2ac88d79bcd19f8",Sky Cinema Action HD
+#EXTINF:-1 logo="http://test:test@rico.goip.de:9981/imagecache/34" tvg-id="7d6a4cfe26e07beef2ac88d79bcd19f8",Sky Cinema Action HD
 http://test:test@rico.goip.de:9981/stream/channelid/2118937213?profile=pass
-#EXTINF:-1 tvg-id="45e962fc274f61565d99901f6abff11f",Sky Cinema Best Of HD
+#EXTINF:-1 logo="http://test:test@rico.goip.de:9981/imagecache/15" tvg-id="45e962fc274f61565d99901f6abff11f",Sky Cinema Best Of HD
 http://test:test@rico.goip.de:9981/stream/channelid/2086857029?profile=pass
-#EXTINF:-1 tvg-id="2bf75bf6bbe7ddc529963761b6de5520",Sky Cinema Classics
+#EXTINF:-1 logo="http://test:test@rico.goip.de:9981/imagecache/4" tvg-id="2bf75bf6bbe7ddc529963761b6de5520",Sky Cinema Classics
 http://test:test@rico.goip.de:9981/stream/channelid/1985738539?profile=pass
-#EXTINF:-1 tvg-id="ad80021ed0b2e27435a452f749379f42",Sky Cinema Family
+#EXTINF:-1 logo="http://test:test@rico.goip.de:9981/imagecache/9" tvg-id="ad80021ed0b2e27435a452f749379f42",Sky Cinema Family
 http://test:test@rico.goip.de:9981/stream/channelid/503480493?profile=pass
-#EXTINF:-1 tvg-id="e698b24d9cfb0b37fd68657d0e6a7cea",Sky Cinema Fun
+#EXTINF:-1 logo="http://test:test@rico.goip.de:9981/imagecache/19" tvg-id="e698b24d9cfb0b37fd68657d0e6a7cea",Sky Cinema Fun
 http://test:test@rico.goip.de:9981/stream/channelid/1303550182?profile=pass
-#EXTINF:-1 tvg-id="88500034736a8fc32ac853f95a22a887",Sky Cinema Premieren +24
+#EXTINF:-1 logo="http://test:test@rico.goip.de:9981/imagecache/7" tvg-id="88500034736a8fc32ac853f95a22a887",Sky Cinema Premieren +24
 http://test:test@rico.goip.de:9981/stream/channelid/872435848?profile=pass
-#EXTINF:-1 tvg-id="f62f4c7d4592383eba84f8b4258411c2",Sky Cinema Premieren HD
+#EXTINF:-1 logo="http://test:test@rico.goip.de:9981/imagecache/30" tvg-id="f62f4c7d4592383eba84f8b4258411c2",Sky Cinema Premieren HD
 http://test:test@rico.goip.de:9981/stream/channelid/2102145014?profile=pass
-#EXTINF:-1 tvg-id="104748849d2259e99e47039e2dbf96c4",Sky Cinema Special HD
+#EXTINF:-1 logo="http://test:test@rico.goip.de:9981/imagecache/11" tvg-id="104748849d2259e99e47039e2dbf96c4",Sky Cinema Special HD
 http://test:test@rico.goip.de:9981/stream/channelid/71845648?profile=pass
-#EXTINF:-1 tvg-id="66cc25ee6bb2c9eb846c164c43d161ab",Sky Cinema Thriller HD
+#EXTINF:-1 logo="http://test:test@rico.goip.de:9981/imagecache/8" tvg-id="66cc25ee6bb2c9eb846c164c43d161ab",Sky Cinema Thriller HD
 http://test:test@rico.goip.de:9981/stream/channelid/1847970918?profile=pass
-#EXTINF:-1 tvg-id="2417a77e46a57da8f96dd7354a22ae3b",Sky Comedy HD
+#EXTINF:-1 logo="http://test:test@rico.goip.de:9981/imagecache/41" tvg-id="2417a77e46a57da8f96dd7354a22ae3b",Sky Comedy HD
 http://test:test@rico.goip.de:9981/stream/channelid/2124879652?profile=pass
-#EXTINF:-1 tvg-id="a0ab695b53e5d08c7a04e30f31a0efa6",Sky Crime HD
+#EXTINF:-1 logo="http://test:test@rico.goip.de:9981/imagecache/29" tvg-id="a0ab695b53e5d08c7a04e30f31a0efa6",Sky Crime HD
 http://test:test@rico.goip.de:9981/stream/channelid/1533651872?profile=pass
-#EXTINF:-1 tvg-id="9687093ea3d10f35dea08cbed67c6e81",Sky Documentaries HD
+#EXTINF:-1 logo="http://test:test@rico.goip.de:9981/imagecache/27" tvg-id="9687093ea3d10f35dea08cbed67c6e81",Sky Documentaries HD
 http://test:test@rico.goip.de:9981/stream/channelid/1040811926?profile=pass
-#EXTINF:-1 tvg-id="1eef1d94ba25437cfde388f0768403f5",Sky Krimi HD
+#EXTINF:-1 logo="http://test:test@rico.goip.de:9981/imagecache/26" tvg-id="1eef1d94ba25437cfde388f0768403f5",Sky Krimi HD
 http://test:test@rico.goip.de:9981/stream/channelid/337506078?profile=pass
-#EXTINF:-1 tvg-id="ef6c0bd5150bfa2b8138a5a3d7bbb5f7",Sky Nature HD
+#EXTINF:-1 logo="http://test:test@rico.goip.de:9981/imagecache/25" tvg-id="ef6c0bd5150bfa2b8138a5a3d7bbb5f7",Sky Nature HD
 http://test:test@rico.goip.de:9981/stream/channelid/1426812143?profile=pass
-#EXTINF:-1 tvg-id="1fdc34c4e76aa3c1bf81c1b7fc3cde43",Sky One HD
+#EXTINF:-1 logo="http://test:test@rico.goip.de:9981/imagecache/31" tvg-id="1fdc34c4e76aa3c1bf81c1b7fc3cde43",Sky One HD
 http://test:test@rico.goip.de:9981/stream/channelid/1144314911?profile=pass
-#EXTINF:-1 tvg-id="8f76665fb623fd8759345bfbf7874a28",Sky Sport 1 HD
+#EXTINF:-1 logo="http://test:test@rico.goip.de:9981/imagecache/2" tvg-id="8f76665fb623fd8759345bfbf7874a28",Sky Sport 1 HD
 http://test:test@rico.goip.de:9981/stream/channelid/1600550543?profile=pass
-#EXTINF:-1 tvg-id="4c9221a3ed4004fa905fe333ba599d41",Sky Sport 2 HD
+#EXTINF:-1 logo="http://test:test@rico.goip.de:9981/imagecache/1" tvg-id="4c9221a3ed4004fa905fe333ba599d41",Sky Sport 2 HD
 http://test:test@rico.goip.de:9981/stream/channelid/589402700?profile=pass
 #EXTINF:-1 tvg-id="3135cf2cfd92c26808f1a8aa496a1e3f",Sky Sport Bundesliga  1 HD
 http://test:test@rico.goip.de:9981/stream/channelid/751777073?profile=pass
 #EXTINF:-1 tvg-id="3a3ab772b0f2c983e591c9f467764ac5",Sky Sport Bundesliga UHD
 http://test:test@rico.goip.de:9981/stream/channelid/1924610618?profile=pass
-#EXTINF:-1 tvg-id="1f4c56f599cef09268e1146b1968f23e",Sky Sport F1 HD
+#EXTINF:-1 logo="http://test:test@rico.goip.de:9981/imagecache/21" tvg-id="1f4c56f599cef09268e1146b1968f23e",Sky Sport F1 HD
 http://test:test@rico.goip.de:9981/stream/channelid/1968589855?profile=pass
-#EXTINF:-1 tvg-id="0c236140dfcf2ec096d79e7a94b05842",Sky Sport News HD
+#EXTINF:-1 logo="http://test:test@rico.goip.de:9981/imagecache/5" tvg-id="0c236140dfcf2ec096d79e7a94b05842",Sky Sport News HD
 http://test:test@rico.goip.de:9981/stream/channelid/1080107788?profile=pass
-#EXTINF:-1 tvg-id="6d728cd60ba427ecd4430c99b8572e39",Sony Channel HD
+#EXTINF:-1 logo="http://test:test@rico.goip.de:9981/imagecache/36" tvg-id="6d728cd60ba427ecd4430c99b8572e39",SONY CHANNEL HD
 http://test:test@rico.goip.de:9981/stream/channelid/1452044909?profile=pass
-#EXTINF:-1 tvg-id="39ea72aa92f255c776c119c3d0dee7bb",Spiegel Geschichte
+#EXTINF:-1 logo="http://test:test@rico.goip.de:9981/imagecache/24" tvg-id="39ea72aa92f255c776c119c3d0dee7bb",Spiegel Geschichte
 http://test:test@rico.goip.de:9981/stream/channelid/712174137?profile=pass
-#EXTINF:-1 tvg-id="720877ec5300442954d1690cb77f10a8",SPIEGEL TV WISSEN HD
+#EXTINF:-1 logo="http://test:test@rico.goip.de:9981/imagecache/37" tvg-id="720877ec5300442954d1690cb77f10a8",Spiegel TV Wissen HD
 http://test:test@rico.goip.de:9981/stream/channelid/1819740274?profile=pass
-#EXTINF:-1 tvg-id="dd62331ca9c700f2036e20c9f08ba4b7",SPORT1 HD
+#EXTINF:-1 logo="http://test:test@rico.goip.de:9981/imagecache/16" tvg-id="dd62331ca9c700f2036e20c9f08ba4b7",Sport1 HD
 http://test:test@rico.goip.de:9981/stream/channelid/473129693?profile=pass
 #EXTINF:-1 tvg-id="ee072c732189ebd865a6ac001e0ff328",SPORT1+ HD
 http://test:test@rico.goip.de:9981/stream/channelid/1932265454?profile=pass
@@ -171,7 +171,7 @@ http://test:test@rico.goip.de:9981/stream/channelid/1645282234?profile=pass
 http://test:test@rico.goip.de:9981/stream/channelid/411668546?profile=pass
 #EXTINF:-1 tvg-id="c1f1da4dd4e95cbbba32c1f4927a25a2",SWR RP HD
 http://test:test@rico.goip.de:9981/stream/channelid/1306194369?profile=pass
-#EXTINF:-1 tvg-id="d05fe07a3ca2ade89f00038543451cdb",SYFY HD
+#EXTINF:-1 logo="http://test:test@rico.goip.de:9981/imagecache/38" tvg-id="d05fe07a3ca2ade89f00038543451cdb",SYFY HD
 http://test:test@rico.goip.de:9981/stream/channelid/2061524944?profile=pass
 #EXTINF:-1 tvg-id="2ab88df5500e5f6cb72fa41754b76587",TELE 5 HD
 http://test:test@rico.goip.de:9981/stream/channelid/1972221994?profile=pass
@@ -183,21 +183,21 @@ http://test:test@rico.goip.de:9981/stream/channelid/2145619207?profile=pass
 http://test:test@rico.goip.de:9981/stream/channelid/1759929472?profile=pass
 #EXTINF:-1 tvg-id="c1b014eae067bf9a1321031a76c2dd3d",TNT Serie HD
 http://test:test@rico.goip.de:9981/stream/channelid/1779740865?profile=pass
-#EXTINF:-1 tvg-id="b8964a2a75bc38da2b67315660144bd1",TOGGO plus
+#EXTINF:-1 logo="http://test:test@rico.goip.de:9981/imagecache/40" tvg-id="b8964a2a75bc38da2b67315660144bd1",TOGGO plus
 http://test:test@rico.goip.de:9981/stream/channelid/709531320?profile=pass
-#EXTINF:-1 tvg-id="9be605fc155b41a011ba8438b99f6df2",UNIVERSAL TV HD
+#EXTINF:-1 logo="http://test:test@rico.goip.de:9981/imagecache/22" tvg-id="9be605fc155b41a011ba8438b99f6df2",Universal TV HD
 http://test:test@rico.goip.de:9981/stream/channelid/2080761499?profile=pass
 #EXTINF:-1 tvg-id="c9ebbe64735f60c0289ea296dc163947",VOX HD
 http://test:test@rico.goip.de:9981/stream/channelid/1690233801?profile=pass
-#EXTINF:-1 tvg-id="f94e962a61d31dbead09b69603719797",VOXup
+#EXTINF:-1 logo="http://test:test@rico.goip.de:9981/imagecache/12" tvg-id="f94e962a61d31dbead09b69603719797",VOXup
 http://test:test@rico.goip.de:9981/stream/channelid/714493689?profile=pass
 #EXTINF:-1 tvg-id="8645c23b673c9ffd2725c9a6c53be00d",WDR HD Köln
 http://test:test@rico.goip.de:9981/stream/channelid/1002587526?profile=pass
 #EXTINF:-1 tvg-id="224a6394f861f445d96cc9125c539721",WELT HD
 http://test:test@rico.goip.de:9981/stream/channelid/342051362?profile=pass
-#EXTINF:-1 tvg-id="e7feed707cce323665cb9f76c19d29a1",ZDF HD
+#EXTINF:-1 logo="http://test:test@rico.goip.de:9981/imagecache/45" tvg-id="e7feed707cce323665cb9f76c19d29a1",ZDF
 http://test:test@rico.goip.de:9981/stream/channelid/1894645479?profile=pass
 #EXTINF:-1 tvg-id="8c677d252b0a8438f5e2fc1badc9c27f",zdf_neo HD
 http://test:test@rico.goip.de:9981/stream/channelid/628975500?profile=pass
-#EXTINF:-1 tvg-id="0b5bb8da74479b3f982673b4ab743795",ZDFinfo HD
+#EXTINF:-1 logo="http://test:test@rico.goip.de:9981/imagecache/33" tvg-id="0b5bb8da74479b3f982673b4ab743795",ZDFinfo HD
 http://test:test@rico.goip.de:9981/stream/channelid/1522031371?profile=pass
