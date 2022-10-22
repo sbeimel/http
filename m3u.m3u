@@ -1,26 +1,26 @@
 #EXTM3U 
 #EXTINF:-1 tvg-id="073aa77f98f340e0aba9ff69fcc677f6321707" tvg-chno="1636" group-title="AT AUSTRIA",AT: ----- AUSTRIA -----
-http://localhost:8001/play/073aa77f98f340e0aba9ff69fcc677f6/321707
+http://5.182.209.146:8001/play/073aa77f98f340e0aba9ff69fcc677f6/321707
 #EXTINF:-1 tvg-id="073aa77f98f340e0aba9ff69fcc677f6375194" tvg-chno="1637" group-title="AT AUSTRIA",AT: ORF 1 FHD
-http://localhost:8001/play/073aa77f98f340e0aba9ff69fcc677f6/375194
+http://5.182.209.146:8001/play/073aa77f98f340e0aba9ff69fcc677f6/375194
 #EXTINF:-1 tvg-id="073aa77f98f340e0aba9ff69fcc677f629995" tvg-chno="1638" group-title="AT AUSTRIA",AT: ORF 1 HD
-http://localhost:8001/play/073aa77f98f340e0aba9ff69fcc677f6/29995
+http://5.182.209.146:8001/play/073aa77f98f340e0aba9ff69fcc677f6/29995
 #EXTINF:-1 tvg-id="073aa77f98f340e0aba9ff69fcc677f6339225" tvg-chno="1639" group-title="AT AUSTRIA",AT: ORF 1
-http://localhost:8001/play/073aa77f98f340e0aba9ff69fcc677f6/339225
+http://5.182.209.146:8001/play/073aa77f98f340e0aba9ff69fcc677f6/339225
 #EXTINF:-1 tvg-id="073aa77f98f340e0aba9ff69fcc677f6375198" tvg-chno="1640" group-title="AT AUSTRIA",AT: ORF 2 FHD
-http://localhost:8001/play/073aa77f98f340e0aba9ff69fcc677f6/375198
+http://5.182.209.146:8001/play/073aa77f98f340e0aba9ff69fcc677f6/375198
 #EXTINF:-1 tvg-id="073aa77f98f340e0aba9ff69fcc677f629996" tvg-chno="1641" group-title="AT AUSTRIA",AT: ORF 2 HD
-http://localhost:8001/play/073aa77f98f340e0aba9ff69fcc677f6/29996
+http://5.182.209.146:8001/play/073aa77f98f340e0aba9ff69fcc677f6/29996
 #EXTINF:-1 tvg-id="073aa77f98f340e0aba9ff69fcc677f6339227" tvg-chno="1642" group-title="AT AUSTRIA",AT: ORF 2
-http://localhost:8001/play/073aa77f98f340e0aba9ff69fcc677f6/339227
+http://5.182.209.146:8001/play/073aa77f98f340e0aba9ff69fcc677f6/339227
 #EXTINF:-1 tvg-id="073aa77f98f340e0aba9ff69fcc677f6375199" tvg-chno="1643" group-title="AT AUSTRIA",AT: ORF III FHD
-http://localhost:8001/play/073aa77f98f340e0aba9ff69fcc677f6/375199
+http://5.182.209.146:8001/play/073aa77f98f340e0aba9ff69fcc677f6/375199
 #EXTINF:-1 tvg-id="073aa77f98f340e0aba9ff69fcc677f6129284" tvg-chno="1644" group-title="AT AUSTRIA",AT: ORF III HD
-http://localhost:8001/play/073aa77f98f340e0aba9ff69fcc677f6/129284
+http://5.182.209.146:8001/play/073aa77f98f340e0aba9ff69fcc677f6/129284
 #EXTINF:-1 tvg-id="073aa77f98f340e0aba9ff69fcc677f6339221" tvg-chno="1645" group-title="AT AUSTRIA",AT: ORF III
-http://localhost:8001/play/073aa77f98f340e0aba9ff69fcc677f6/339221
+http://5.182.209.146:8001/play/073aa77f98f340e0aba9ff69fcc677f6/339221
 #EXTINF:-1 tvg-id="073aa77f98f340e0aba9ff69fcc677f6375193" tvg-chno="1646" group-title="AT AUSTRIA",AT: ORF2B HD
-http://localhost:8001/play/073aa77f98f340e0aba9ff69fcc677f6/375193
+http://5.182.209.146:8001/play/073aa77f98f340e0aba9ff69fcc677f6/375193
 #EXTINF:-1 tvg-id="073aa77f98f340e0aba9ff69fcc677f6375192" tvg-chno="1647" group-title="AT AUSTRIA",AT: ORF2K HD
-http://localhost:8001/play/073aa77f98f340e0aba9ff69fcc677f6/375192
+http://5.182.209.146:8001/play/073aa77f98f340e0aba9ff69fcc677f6/375192
 #EXTINF:-1 tvg-id="073aa77f98f340e0aba9ff69fcc677f6339228" tvg-chno="1655" group-title="AT AUSTRIA",AT: 
